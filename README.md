@@ -1,2 +1,2 @@
-# rag-roll
+# Rag-Roll
 RAG WITH SNOWFLAKE AND MISTRAL
